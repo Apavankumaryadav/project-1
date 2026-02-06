@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>anime</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class = "navbar">
+    <h1>Anime reading book</h1>
+    <p>.intersting .love .crime </p>
+    </header>
+  <nav class = "sub-navbar">
+        
+        <a href="#">Home</a>
+        <a href="#">Story</a>
+        <a href="#">character</a>
+        <a href="#">Contact</a>
+    </nav>
+    <main class = "main-content">
+        <section class = "section-1">
+            <h2>The Rise Of a Silent Warrior</h2>
+            <p>In the bustling city of Neo-Tokyo, where towering skyscrapers kissed the clouds and neon lights painted the night, a silent warrior emerged from the shadows. Known only as Kuro, he was a master of stealth and combat, a lone figure who moved through the city like a ghost. Kuro's past was shrouded in mystery, but his actions spoke volumes. He fought against corruption and injustice, taking down powerful crime syndicates that plagued the city. With each victory, Kuro's legend grew, inspiring hope among the oppressed and fear among the wicked. As he continued his crusade for justice, Kuro's true identity remained hidden, leaving the world to wonder who this enigmatic hero truly was.</p>
+            <button> Read story  </button>
+        </section>
+            <section class = "section-2">
+                <div class="h3">
+                     <h3>main characters</h3>
+                </div>
+               
+                <div class="menu">
+
+                    <div class = "character-1">
+                    <h4><b>Kuro</b></h4>
+                    <br>
+                    <p>The silent warrior, a master of stealth and combat, who fights against corruption and injustice in Neo-Tokyo.</p>
+                </div>
+                
+               <div class = "character-2">
+                    <h4><b>Yumi</b></h4>
+                    <br>
+                    <p>A brilliant hacker and Kuro's trusted ally, who provides him with crucial information and technological support in his fight against crime.</p>
+
+               </div>
+
+               <div class = "character-3">
+                    <h4><b>Ryu</b></h4>
+                    <br>
+                    <p>A former member of a powerful crime syndicate, who seeks redemption by joining forces with Kuro to dismantle the very organization he once served.</p>
+
+                </div>
+
+                </div>
+            </section>
+            </main>
+    <footer class = "footer">
+        <p>@ 2026 anime reading book</p>
+    </footer>
+    
+</body>
+</html>
